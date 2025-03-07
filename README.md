@@ -20,7 +20,7 @@
 
 1️⃣ Clonar el Repositorio 🛠️
 
-git clone https://github.com/tu-usuario/tarea3.git
+git clone https://github.com/ocelote1204/tarea3.git
 cd tarea3
 
 2️⃣ Crear y Activar el Entorno Virtual 🌍
